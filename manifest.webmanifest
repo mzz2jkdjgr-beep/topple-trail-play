@@ -1,0 +1,17 @@
+{
+  "name": "Topple Trail (test)",
+  "short_name": "Topple Trail",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "background_color": "#86c83c",
+  "theme_color": "#23262b",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
